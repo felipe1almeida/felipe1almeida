@@ -25,7 +25,5 @@ Here are some ideas to get you started:
 <img align='center' height='30' width='40' src='https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg'>
 <img align='center' height='30' width='40' src='https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg'>
 <img align='center' height='30' width='40' src='https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg'>
-<img align='center' height='30' width='40' src='hhttps://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg'>
-<img align='center' height='30' width='40' src='https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg'>
 
   </div>
