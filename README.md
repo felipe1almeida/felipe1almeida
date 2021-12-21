@@ -21,9 +21,3 @@ Here are some ideas to get you started:
    <img height='180em'src='https://github-readme-stats.vercel.app/api/top-langs/?username=felipe1almeida&langs_count=8&layout=compact'/>  
 </div>
 
-<div style='display: inline_block'><br>
-<img align='center' height='30' width='40' src='https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg'>
-<img align='center' height='30' width='40' src='https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg'>
-<img align='center' height='30' width='40' src='https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg'>
-
-  </div>
